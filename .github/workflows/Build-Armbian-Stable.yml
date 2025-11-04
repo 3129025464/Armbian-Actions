@@ -20,6 +20,7 @@ on:
         - som3588-cat
         - ufi001c
         - uz801
+        - rk3566-torder-tablet
         - all
         default: 'all'
 
